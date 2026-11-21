@@ -1,6 +1,11 @@
 # Fold 操作手册 / Fold User Guide
 
-这个仓库只维护 Fold 的官方操作手册。当前阶段不接官网、Cloudflare 或其他发布渠道，GitHub 上的 Markdown 就是唯一内容源。
+[![访问官网](docs/assets/buttons/visit-website.svg)](https://foldmac.top)
+[![立即下载](docs/assets/buttons/download.svg)](https://github.com/juguangyuan520-dotcom/fold-docs/releases)
+
+Fold 是面向长期使用的 Mac 文件管理器，帮助你收拢分散文件、管理文件夹、使用全局暂存箱、快速搜索和整理微信文件，并内置 Fold AI 辅助摘要与文件处理。当前正式版仅支持 Apple Silicon（M 系列芯片）。
+
+这个仓库维护 Fold 的官方操作手册。
 
 ## 语言 / Language
 
